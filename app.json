@@ -1,9 +1,9 @@
 {
-    "name": "𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
-    "logo": "https://graph.org/file/c6a2ed96648fd03377dc9.jpg",
+    "name": "𝗡𝗫𝗧 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
+    "logo": "https://telegra.ph/file/b15b4058c9f144b545f9a.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/itzshukla/STRANGER-USERBOT2.0",
+    "repository": "https://github.com/Fakecheater77x/NXT_USERBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
